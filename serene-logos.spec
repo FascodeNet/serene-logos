@@ -2,7 +2,7 @@ Name:		serene-logos
 	
 Summary:	Serene linux logos
 	
-Version:	38.0.0
+Version:	39.0.0
 	
 Release:	5%{?dist}
 
